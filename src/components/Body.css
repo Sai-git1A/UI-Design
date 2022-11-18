@@ -1,0 +1,197 @@
+/* Section - 1 */
+.section-1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 5%;
+}
+
+.sub-1 {
+    margin-right: 2%;
+    max-width: 555px;
+}
+
+.title-1, .title-2 {
+    margin: 1%;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.title-2 {
+    color: #EE4248;
+}
+
+.sub-text {
+    font-size: 1.4rem;
+}
+
+.btn {
+    background-color: #EE4248;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 2% 4%;
+}
+
+.btn:hover {
+    background-color: #ff0008;
+    cursor: pointer;
+}
+
+.img-1 {
+   width: 40%;
+}
+
+/* Section - 2 */
+.section-2 {
+    background-color: #F6F6F6;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 3%;
+}
+
+.sub-2 {
+    margin-left: 4%;
+    max-width: 560px;
+}
+
+.title-3, .title-4 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 600;
+    max-width: 360px;
+}
+
+.title-4 {
+    color: #EE4248;
+}
+
+.sub-text-2 {
+    font-size: 1.19rem;
+    margin-bottom: 0;
+}
+
+.img-2 {
+    height: 300px;
+    width: 36%;
+}
+
+/* Section - 3 */
+.section-3 {
+    padding: 4%;
+}
+
+.title-5 {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.sub-3 {
+    display: flex;
+    align-items: top;
+    justify-content: center;
+}
+
+.container {
+    max-width: 300px;
+    margin-right: 2%;
+}
+
+.container-img {
+    height: 100px;
+    width: 100px;
+}
+
+.container-title {
+    color: #EE4248;
+    font-size: 1.8rem;
+}
+
+.container-sub-text {
+    font-size: 1.19rem;
+}
+
+.btn-2 {
+    background-color: #EE4248;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    padding: 3% 4%;
+}
+
+/* Section - 4 */
+.section-4 {
+    padding: 4%;
+}
+
+.sub-4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.specialist {
+    height: 284px;
+    width: 230px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 5px 1px grey;
+    border-radius: 8px;
+    margin-right: 2%;
+}
+
+.specialist-img {
+    position: relative;
+    left: 51px;
+    height: 128px;
+    width: 128px;
+}
+
+.specialist-in {
+    color: #EE4248;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.specialist-name {
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+.specialist-contact {
+    display: flex;
+    justify-content: center;
+}
+
+.specialist-contact i {
+    cursor: pointer;
+    color: #EE4248;
+    background-color: white;
+    box-shadow: 0px 0px 5px 1px grey;
+    border-radius: 20px;
+    margin-right: 6%;
+    text-align: center;
+    line-height: 28px;
+    height: 28px;
+    width: 28px;
+}
+
+/* Section -5 */
+.section-5 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    padding: 0 4%;
+}
+
+.section-5 div {
+    margin-right: 2%;
+}
+
+.s5-images {
+    max-width: 420px;
+}
+
+div .contact-img {
+    margin: 2%;
+}
